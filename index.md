@@ -1,5 +1,5 @@
-<div style="text-align: center;">
-    <span>[Search](search.md)</span><br>
+<div style="text-align: center; font-family: 'Public Sans', sans-serif;">
+    <span>[<a href="search.md">Search</a>]</span><br>
     <span>——————————————————————</span><br><br>
 </div>
 
