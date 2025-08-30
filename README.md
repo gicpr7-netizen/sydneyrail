@@ -1,4 +1,4 @@
-# Transport in New South Wales
+# Route in New South Wales
 
 A website archive the stations in New South Wales.
 
