@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <span><a href="search.md">Search</a></span><br>
+    <span>[Search](search.md)</span><br>
     <span>——————————————————————</span><br><br>
 </div>
 
