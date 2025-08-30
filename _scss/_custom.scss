@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Public Sans';
+  src: url('/fonts/PublicSans-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+    font-family: 'Public Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Public Sans', sans-serif;
+}
+
+.site-header {
+    background-color: #3498db;
+    background-image: none;
+}
