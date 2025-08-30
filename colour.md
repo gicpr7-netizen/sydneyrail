@@ -24,16 +24,16 @@
 | [Bus](bus/bus.md) | B | `#00B5EF` |
 | | |
 | [Ferry](ferry/ferry.md) | F | `#5AB031` |
-| [Manly](ferry/ferry.md) | F | `#00774B` |
-| [Taronga Zoo](ferry/ferry.md) | F | `#144734` |
-| [Parramatta River](ferry/ferry.md) | F | `#648C3C` |
-| [Pyrmont Bay](ferry/ferry.md) | F | `#BFD730` |
-| [Neutral Bay](ferry/ferry.md) | F | `#286142` |
-| [Mosman Bay](ferry/ferry.md) | F | `#00AB51` |
-| [Double Bay](ferry/ferry.md) | F | `#00B189` |
-| [Cockatoo Island](ferry/ferry.md) | F | `#55622B` |
-| [Watsons Bay](ferry/ferry.md) | F | `#65B32E` |
-| [Blackwttle Bay](ferry/ferry.md) | F | `#469B3B` |
+| [Manly](ferry/f1.md) | F | `#00774B` |
+| [Taronga Zoo](ferry/f2.md) | F | `#144734` |
+| [Parramatta River](ferry/f3.md) | F | `#648C3C` |
+| [Pyrmont Bay](ferry/f4.md) | F | `#BFD730` |
+| [Neutral Bay](ferry/f5.md) | F | `#286142` |
+| [Mosman Bay](ferry/f6.md) | F | `#00AB51` |
+| [Double Bay](ferry/f7.md) | F | `#00B189` |
+| [Cockatoo Island](ferry/f8.md) | F | `#55622B` |
+| [Watsons Bay](ferry/f9.md) | F | `#65B32E` |
+| [Blackwttle Bay](ferry/f10.md) | F | `#469B3B` |
 | | |
 | [Light rail](lightrail/lightrail.md) | L | `#EE343F` |
 | [Dulwich Hill Line](lightrail/l1.md) | L1 | `#BE1622` |
