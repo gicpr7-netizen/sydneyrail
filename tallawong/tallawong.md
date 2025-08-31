@@ -8,6 +8,6 @@
 - [Station Guide (2024)](CUD_APCP_001.pdf)
 
 ### Bus Guide
-- [Bus Guide (2025)](CUD_APXP_BSG_WCAG_20250119)
+- [Bus Guide (2025)](CUD_APXP_BSG_WCAG_20250119.pdf)
 - [Bus Guide (2021)](CUD_APCP_007.pdf)
 - [Bus Guide (2020)](CUD_APCP_007(old).pdf)
