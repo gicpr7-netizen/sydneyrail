@@ -1,6 +1,6 @@
 # Tallawong
 
-**Tallawong** (use **Cudgegong Road** under construction), is the station in Rouse Hill, instead of Tallawong, suburb of Tallawong was established later than the station, and served by [Metro North West & Bankstown Line](/metro/metro.md), future were extented to Schofields from here.
+**Tallawong** (used **Cudgegong Road** under construction), is the station in Rouse Hill, instead of Tallawong, suburb of Tallawong was established later than the station, and served by [Metro North West & Bankstown Line](/metro/metro.md), future were extented to Schofields from here.
 
 ## Maps
 
