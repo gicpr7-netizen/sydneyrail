@@ -10,9 +10,9 @@ Central is the most platforms station in New South Wales.
 
 ## Transports
 
-- [Metro](metro.md)
-- [Train](train.md)
-- [Bus](bus.md)
-- [Ferry](ferry.md)
-- [Light rail](lightrail.md)
-- [Coach](coach.md)
+- [Metro](metro/metro)
+- [Train](train/train)
+- [Bus](bus/bus)
+- [Ferry](ferry/ferry)
+- [Light rail](lightrail/lightrail)
+- [Coach](coach/coach)
