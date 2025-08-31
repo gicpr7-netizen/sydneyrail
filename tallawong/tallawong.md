@@ -5,8 +5,9 @@
 ## Services
 
 | Line | Previous | Next |
-| ------------------------- | -------------------- | -------------------- |
-| [Metro North West & Bankstown Line](/metro/m1) | *Terminus* | [Rouse Hill](/rousehill/rousehill) |
+| :--- | :--- | :--- |
+| [Metro North West & Bankstown Line](/metro/m1) | Terminus | [Rouse Hill](/rousehill/rousehill) |
+
 ## Maps
 
 ### Staion Guide
