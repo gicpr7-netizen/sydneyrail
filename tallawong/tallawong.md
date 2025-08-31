@@ -6,14 +6,13 @@
 
 | Line | Previous | Next |
 | :--- | :--- | :--- |
-| [Metro North West & Bankstown Line](/metro/m1) | Terminus | [Rouse Hill](/rousehill/rousehill) |
+| [Metro North West & Bankstown Line](/metro/m1) | <em>[Schofields](/schofields/schofields)<br>(Future extension)</em> | [Rouse Hill](/rousehill/rousehill) |
 
 ## Maps
 
-### Staion Guide
-- [2024](CUD_APCP_001.pdf)
-
-### Bus Guide
-- [2025](CUD_APXP_BSG_WCAG_20250119.pdf)
-- [2021](CUD_APCP_007.pdf)
-- [2020](CUD_APCP_007(old).pdf)
+| Type | Valid Year |
+| --- | --- | --- |
+| [Station Guide](CUD_APCP_001.pdf) | 2024 |
+| [Bus Guide](CUD_APXP_BSG_WCAG_20250119.pdf) | 2025 |
+| [Bus Guide](CUD_APCP_007.pdf) | 2021 |
+| [Bus Guide](CUD_APCP_007(old).pdf) | 2020 |
