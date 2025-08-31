@@ -6,13 +6,20 @@
 
 | Line | Previous | Next |
 | :--- | :--- | :--- |
-| [Metro North West & Bankstown Line](/metro/m1) | <em>[Schofields](/schofields/schofields)<br>(Future extension)</em> | [Rouse Hill](/rousehill/rousehill) |
+| <mark style="background-color: #168388">[M1](/metro/m1)</mark> | <em>[Schofields](/schofields/schofields)<br>(Future extension)</em> | [Rouse Hill](/rousehill/rousehill) |
 
 ## Maps
 
 | Type | Valid Year |
 | --- | --- | --- |
-| [Station Guide](CUD_APCP_001.pdf) | 2024 |
 | [Bus Guide](CUD_APXP_BSG_WCAG_20250119.pdf) | 2025 |
+| [Station Guide](CUD_APCP_001.pdf) | 2024 |
 | [Bus Guide](CUD_APCP_007.pdf) | 2021 |
 | [Bus Guide](CUD_APCP_007(old).pdf) | 2020 |
+
+## Platforms
+
+| Platform | Image |
+| --- | --- |
+| 2 | <img src="platform2.png" width="35%" height="35%"> |
+| 3 | <img src="platform3.png" width="35%" height="35%"> |

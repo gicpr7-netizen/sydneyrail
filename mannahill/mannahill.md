@@ -5,9 +5,8 @@
 
 | Line | Previous | Next |
 | :--- | :--- | :--- |
-| [Cockburn Line (Western Region)](/train/wst) | [Outalpa](/outalpa/outalpa) | [Oulnina](/oulnina/oulnina) |
-
-## Platform
+| <mark style="background-color: #F6891F">[WST](/train/wst)</mark> | [Outalpa](/outalpa/outalpa) | [Oulnina](/oulnina/oulnina) |
+## Platforms
 
 | Platform | Image |
 | --- | --- |
