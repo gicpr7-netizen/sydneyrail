@@ -6,7 +6,7 @@
 
 | Line | Previous | Next |
 | :--- | :--- | :--- |
-| <mark style="background-color: #168388"><a href="/metro/m1" style="color: #fff;">M1</a></mark> | <em>[Schofields](/schofields/schofields)<br>(Future extension)</em> | [Rouse Hill](/rousehill/rousehill) |
+| <mark style="background-color: #168388"; display: inline-block; padding: 8px 12px; margin: -8px -12px;><a href="/metro/m1" style="color: #fff;">M1</a></mark> | <em>[Schofields](/schofields/schofields)<br>(Future extension)</em> | [Rouse Hill](/rousehill/rousehill) |
 
 ## Maps
 
