@@ -9,10 +9,6 @@
 | <mark style="background-color: #F99D1C; display: inline-block; padding: 6px 10px; margin: -6px -10px;"><a href="/train/t1" style="color: #fff;">T1</a></mark> | [Killara](/killara/killara) | [Roseville](/roseville/roseville) |
 | <mark style="background-color: #D11F2F; display: inline-block; padding: 6px 10px; margin: -6px -10px;"><a href="/train/t9" style="color: #fff;">T9</a></mark> | [Killara](/killara/killara) | [Roseville](/roseville/roseville) |
 | <mark style="background-color: #D11F2F; display: inline-block; padding: 6px 10px; margin: -6px -10px;"><a href="/train/ccn" style="color: #fff;">CCN</a></mark> | [Gordon](/gordon/gordon) | [Chatswood](/chatswood/chatswood) |
-## Maps
-
-- [Station Guide](CUD_APCP_001.pdf) 
-- [Bus Guide](CUD_APXP_BSG_WCAG_20250119.pdf)
 
 ## Platforms
 
