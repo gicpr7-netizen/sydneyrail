@@ -16,6 +16,6 @@
 ## Platforms
 
 | Platform | Image |
-| --- | --- |
+| :--- | :--- |
 | 2 | <img src="platform2.png" width="35%" height="35%"> |
 | 3 | <img src="platform3.png" width="35%" height="35%"> |
