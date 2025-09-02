@@ -8,11 +8,6 @@
 | :--- | :--- | :--- |
 | <mark style="background-color: #168388; display: inline-block; padding: 6px 10px; margin: -6px -10px;"><a href="/metro/m1" style="color: #fff;">M1</a></mark> | <em>[Schofields](/schofields/schofields)<br>(Future extension)</em> | [Rouse Hill](/rousehill/rousehill) |
 
-## Maps
-
-- [Station Guide](CUD_APCP_001.pdf) 
-- [Bus Guide](CUD_APXP_BSG_WCAG_20250119.pdf)
-
 ## Platforms
 
 | Platform | Image |
