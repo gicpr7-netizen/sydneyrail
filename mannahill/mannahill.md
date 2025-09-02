@@ -5,7 +5,8 @@
 
 | Line | Previous | Next |
 | :--- | :--- | :--- |
-| <mark style="background-color: #F6891F; display: inline-block; padding: 8px 12px; margin: -8px -12px;"><a href="/train/wst" style="color: #fff;">WST</a></mark> | [Outalpa](/outalpa/outalpa) | [Oulnina](/oulnina/oulnina) |
+| <mark style="background-color: #F6891F; display: inline-block; padding: 6px 10px; margin: -6px -10px;"><a href="/train/wst" style="color: #fff;">WST</a></mark> | [Outalpa](/outalpa/outalpa) | [Oulnina](/oulnina/oulnina) |
+
 ## Platforms
 
 | Platform | Image |
