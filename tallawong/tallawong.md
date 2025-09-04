@@ -1,12 +1,12 @@
 # Tallawong
 
-**Tallawong** (used **Cudgegong Road** under construction), is the station in Rouse Hill, instead of Tallawong, suburb of Tallawong was established later than the station, and served by [Metro North West & Bankstown Line](/metro/m1), future were extented to Schofields from here, this station can be the terminus station of [Metro North West & Bankstown Line](/metro/m1).
+**Tallawong** (used **Cudgegong Road** under construction), is the station in Rouse Hill, instead of Tallawong, suburb of Tallawong was established later than the station, and served by [Metro North West & Bankstown Line](/sydneyrail/metro/m1), future were extented to Schofields from here, this station can be the terminus station of [Metro North West & Bankstown Line](/sydneyrail/metro/m1).
 
 ## Services
 
 | Line | Previous | Next |
 | :--- | :--- | :--- |
-| <mark style="background-color: #168388; display: inline-block; padding: 6px 10px; margin: -6px -10px;"><a href="/metro/m1" style="color: #fff;">M1</a></mark> | <em>[Schofields](/schofields/schofields)<br>(Future extension)</em> | [Rouse Hill](/rousehill/rousehill) |
+| <mark style="background-color: #168388; display: inline-block; padding: 6px 10px; margin: -6px -10px;"><a href="/sydneyrail/metro/m1" style="color: #fff;">M1</a></mark> | <em>[Schofields](/sydneyrail/schofields/schofields)<br>(Future extension)</em> | [Rouse Hill](/sydneyrail/rousehill/rousehill) |
 
 ## Platforms
 

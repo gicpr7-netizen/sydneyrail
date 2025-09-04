@@ -1,6 +1,6 @@
 # Home
 
-Welcome to **SydneyRail↺**, this website is made by [Github Pages](https://pages.github.com/). SydneyRail↺ include 6 transports, [Metro](metro/metro), [Train](train/train), [Bus](bus/bus), [Ferry](ferry/ferry), [Light rail](lightrail/lightrail), [Coach](coach/coach).
+Welcome to **SydneyRail↺**, this website is made by [Github Pages](https://pages.github.com/). SydneyRail↺ include 6 transports, [Metro](/sydneyrail/metro/metro), [Train](/sydneyrail/train/train), [Bus](/sydneyrail/bus/bus), [Ferry](/sydneyrail/ferry/ferry), [Light rail](/sydneyrail/lightrail/lightrail), [Coach](/sydneyrail/coach/coach).
 
 ## Acknowledgement of Country
 
