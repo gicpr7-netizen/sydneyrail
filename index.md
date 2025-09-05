@@ -2,7 +2,7 @@
 
 Welcome to **SydneyRail↺**, this website is made by [Github Pages](https://pages.github.com/). SydneyRail↺ include 6 transports, [Metro](/sydneyrail/metro/metro), [Train](/sydneyrail/train/train), [Bus](/sydneyrail/bus/bus), [Ferry](/sydneyrail/ferry/ferry), [Light rail](/sydneyrail/lightrail/lightrail), [Coach](/sydneyrail/coach/coach).
 
-The profile of [GiCPr7](https://github.com/gicpr7-netizen).
+The profile of [GiCPr7](https://gicpr7-netizen.github.com/gicpr7-netizen).
 
 ## Acknowledgement of Country
 
