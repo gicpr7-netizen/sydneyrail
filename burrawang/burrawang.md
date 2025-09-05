@@ -6,7 +6,7 @@
 
 | Line | Previous | Next |
 | :--- | :--- | :--- |
-| <mark style="background-color: #00954C; display: inline-block; padding: 6px 10px; margin: -6px -10px;"><a href="/sydneyrail/metro/m1" style="color: #fff;">SH</a></mark><br><small>(Coach)</small> | [Bowral](/sydneyrail/bowral/bowral) | [Robertson](/sydneyrail/robertson/robertson) |
+| <mark style="background-color: #00954C; display: inline-block; padding: 6px 10px; margin: -6px -10px;"><a href="/sydneyrail/metro/m1" style="color: #fff;">SH</a><small>(Coach)</small></mark> | [Bowral](/sydneyrail/bowral/bowral) | [Robertson](/sydneyrail/robertson/robertson) |
 
 ## Platforms
 
