@@ -2,6 +2,8 @@
 
 Welcome to **SydneyRail↺**, this website is made by [Github Pages](https://pages.github.com/). SydneyRail↺ include 6 transports, [Metro](/sydneyrail/metro/metro), [Train](/sydneyrail/train/train), [Bus](/sydneyrail/bus/bus), [Ferry](/sydneyrail/ferry/ferry), [Light rail](/sydneyrail/lightrail/lightrail), [Coach](/sydneyrail/coach/coach).
 
+The profile of [GiCPr7](https://github.com/gicpr7-netizen).
+
 ## Acknowledgement of Country
 
 Reconciliation Australia acknowledges Traditional Owners of Country throughout Australia and recognises the continuing  connection to lands, waters and communities. We pay our respect to Aboriginal and Torres Strait Islander cultures; and to Elders past and present. 
