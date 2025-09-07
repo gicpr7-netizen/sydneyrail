@@ -6,7 +6,7 @@
 
 | Line | Previous | Next |
 | :--- | :--- | :--- |
-| <a href="/sydneyrail/metro/m1" style="color: #fff;"><img src="/sydneyrail/m1.png" height="35%" width="35%"></a> | <em>[Schofields](/sydneyrail/schofields/schofields)<br><small>(Future extension)</small></em> | [Rouse Hill](/sydneyrail/rousehill/rousehill) |
+| <a href="/sydneyrail/metro/m1" style="color: #fff;"><img src="/sydneyrail/m1.png" height="25%" width="25%"></a> | <em>[Schofields](/sydneyrail/schofields/schofields)<br><small>(Future extension)</small></em> | [Rouse Hill](/sydneyrail/rousehill/rousehill) |
 
 ## Platforms
 
